@@ -24,6 +24,9 @@ Healthcare_Chatbot/
 ├─ requirements.txt # Python dependencies
 └─ README.md # Project description
 
+To check the bot
+https://healthcarechatbot-sezrrmp4wye2wmya9mhwdn.streamlit.app/
+
 ## 💻 Installation & setup
 
 1. **Clone the repository**
